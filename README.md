@@ -12,3 +12,5 @@
 5. Decide the area of each block needed with Mask.m, then call DCTcoe.m
 
 yiq.m and Iyiq.m can change the channels of RGB to YIQ, vice versa
+
+PSNR.m can calculate the PSNR between original images and decompressed images
